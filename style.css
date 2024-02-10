@@ -1,0 +1,32 @@
+
+.container{
+    margin: 50px;
+    padding: 100px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    background-color: #E8DFFF;
+}
+
+.container button{
+    background-color: #07022A;
+    padding: 10px;
+    border-radius: 10px;
+    color: #fff;
+}
+
+.dark{
+    background-color: #07022A;
+}
+
+.dark h1{
+    color: #E8DFFF;
+}
+
+.dark button{
+    background-color: #E8DFFF;
+    color: #07022A;
+}
